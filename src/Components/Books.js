@@ -7,7 +7,7 @@ const Books = () => {
       <div className="book">
         <img
           src="https://m.media-amazon.com/images/I/41WJKLNCQFL._SX322_BO1,204,203,200_.jpg"
-          alt="The Tree of Knowledge Paperback"
+          alt="The Tree of Knowledge"
         />
         <h2>The Tree of Knowledge</h2>
         <h4>Author: Daniel G. Miller</h4>
